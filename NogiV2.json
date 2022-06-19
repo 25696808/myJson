@@ -1,0 +1,115 @@
+[
+     {
+        "id":1,
+        "name": "秋元真夏",
+        "kanji":"akimotomanatasu",
+        "group":"乃木坂46",
+        "period":"一期生",
+        "graduate":"現役成員",
+        "birthday": "1993-8-20",
+        "bloodType": "B",
+        "constellation": "しし座",
+        "profilePhotoUri": "akimotomanatasu",
+        "blogUri" : "akimotomanatasuBlog",
+        "igUri" : "akimotomanatasuIG",
+        "tvUri" : "https://talent.thetv.jp/person/1000082342/program/",
+        "goodsUri" : "http://www.nogizaka46shop.com/category/50",
+        "matomeUri" : [
+            "http://nogizaka46democracy.blog.jp/archives/cat_304644.html"
+            ]
+    },
+    {   
+        "id":2,
+        "name": "生田絵梨花",
+        "kanji": "ikutaerika",
+        "group":"乃木坂46",
+        "period":"一期生",
+        "graduate":"畢業成員",
+        "birthday": "1997-1-22",
+        "bloodType": "A",
+        "constellation": "みずがめ座",
+        "profilePhotoUri": "ikutaerika",
+        "blogUri" : "http://blog.nogizaka46.com/erika.ikuta/smph/",
+        "tvUri" : "https://talent.thetv.jp/person/1000082345/program/",
+        "goodsUri" : "http://www.nogizaka46shop.com/category/49",
+        "matomeUri" : [
+            "http://nogizaka46democracy.blog.jp/archives/cat_58342.html"
+            ]
+    },
+    {
+        "id":3,
+        "name": "生駒里奈",
+        "kanji":"ikomarina",
+        "group":"乃木坂46",
+        "period":"一期生",
+        "graduate":"畢業成員",
+        "birthday": "1995-12-29",
+        "bloodType": "AB",
+        "constellation": "やぎ座",
+        "profilePhotoUri": "ikomarina",
+        "blogUri" : "http://blog.nogizaka46.com/rina.ikoma/smph/",
+        "tvUri" : "https://talent.thetv.jp/person/1000082346/program/",
+        "goodsUri" : "http://www.nogizaka46shop.com/category/48",
+        "matomeUri" : [
+            "http://nogizaka46democracy.blog.jp/archives/cat_46398.html"
+            ],
+        "graduateDate" : "2018-5-6"
+    },
+    {
+        "id":4,
+        "name": "伊藤かりん",
+        "kanji":"itoukarin",
+        "group":"乃木坂46",
+        "period":"二期生",
+        "graduate":"畢業成員",
+        "birthday": "1993-5-26",
+        "bloodType": "O",
+        "constellation": "ふたご座",
+        "profilePhotoUri": "itoukarin",
+        "blogUri" : "http://blog.nogizaka46.com/karin.itou/smph/",
+        "tvUri" : "https://talent.thetv.jp/person/2000003711/program/",
+        "goodsUri" : "http://www.nogizaka46shop.com/category/47",
+        "matomeUri" : [
+            "http://nogizaka46democracy.blog.jp/archives/cat_305552.html"
+            ],
+        "graduateDate" : "2019-5-24"
+    },
+    {
+        "id":5,
+        "name": "伊藤純奈",
+        "kanji":"itoujunna",
+        "group":"乃木坂46",
+        "period":"二期生",
+        "graduate":"畢業成員",
+        "birthday": "1998-11-30",
+        "bloodType": "A",
+        "constellation": "いて座",
+        "profilePhotoUri": "itoujunna",
+        "blogUri" : "http://blog.nogizaka46.com/junna.itou/smph/",
+        "tvUri" : "https://talent.thetv.jp/person/2000004346/program/",
+        "goodsUri" : "http://www.nogizaka46shop.com/category/46",
+        "matomeUri" : [
+            "http://nogizaka46democracy.blog.jp/archives/cat_141699.html"
+            ],
+        "graduateDate" : "2021-8-29"
+    },
+    {
+        "id":6,
+        "name": "伊藤万理華",
+        "kanji":"itoumarika",
+        "group":"乃木坂46",
+        "period":"一期生",
+        "graduate":"畢業成員",
+        "birthday": "1996-2-20",
+        "bloodType": "O",
+        "constellation": "うお座",
+        "profilePhotoUri": "itoumarika",
+        "blogUri" : "http://blog.nogizaka46.com/marika.ito/smph/",
+        "tvUri" : "https://talent.thetv.jp/person/1000082679/program/",
+        "goodsUri" : "http://www.nogizaka46shop.com/category/45",
+        "matomeUri" : [
+            "http://nogizaka46democracy.blog.jp/archives/cat_58345.html"
+            ],
+        "graduateDate" : "2018-1-31"
+    }
+]
