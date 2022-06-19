@@ -92,24 +92,5 @@
             "http://nogizaka46democracy.blog.jp/archives/cat_141699.html"
             ],
         "graduateDate" : "2021-8-29"
-    },
-    {
-        "id":6,
-        "name": "伊藤万理華",
-        "kanji":"itoumarika",
-        "group":"乃木坂46",
-        "period":"一期生",
-        "graduate":"畢業成員",
-        "birthday": "1996-2-20",
-        "bloodType": "O",
-        "constellation": "うお座",
-        "profilePhotoUri": "itoumarika",
-        "blogUri" : "http://blog.nogizaka46.com/marika.ito/smph/",
-        "tvUri" : "https://talent.thetv.jp/person/1000082679/program/",
-        "goodsUri" : "http://www.nogizaka46shop.com/category/45",
-        "matomeUri" : [
-            "http://nogizaka46democracy.blog.jp/archives/cat_58345.html"
-            ],
-        "graduateDate" : "2018-1-31"
     }
 ]
