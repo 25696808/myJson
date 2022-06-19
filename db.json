@@ -2,33 +2,24 @@
      {
         "id":1,
         "name": "秋元真夏",
-        "kanji":"akimotomanatasu",
-        "group":"乃木坂46",
-        "period":"一期生",
+        "kanji":"akimotomanatasu"
     },
     {   
         "id":2,
         "name": "生田絵梨花",
-        "kanji": "ikutaerika",
-        "group":"乃木坂46",
-        "period":"一期生",
+        "kanji": "ikutaerika"
     
     },
     {
         "id":3,
         "name": "生駒里奈",
-        "kanji":"ikomarina",
-        "group":"乃木坂46",
-        "period":"一期生",
-        "graduate":"畢業成員",
+        "kanji":"ikomarina"
     
     },
     {
         "id":4,
         "name": "伊藤かりん",
-        "kanji":"itoukarin",
-        "group":"乃木坂46",
-        "period":"二期生",
+        "kanji":"itoukarin"
       
     }
  
